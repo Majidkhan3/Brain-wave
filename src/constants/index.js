@@ -269,7 +269,8 @@ export const benefits = [
   },
   {
     id: "3",
-    title: "Fast responding",
+    title: "Fast responding for
+     Everyone",
     text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
