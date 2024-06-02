@@ -225,13 +225,13 @@ export const pricing = [
     features: [
       "An advanced AI chatbot that can understand complex queries",
       "An analytics dashboard to track your conversations",
-      "Priority support to solve issues quickly",
+      "Priority support to Soltions Complation  quickly",
     ],
   },
   {
     id: "2",
     title: "Enterprise",
-    description: "Custom AI chatbot, advanced analytics, dedicated account",
+    description: "Custom AI chatbot, advanced analytics, dedicated account, ejw SOms ",
     price: null,
     features: [
       "An AI chatbot that can understand your queries",
@@ -244,7 +244,7 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Ask anything",
+    title: "Ask NewAnything",
     text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
@@ -269,8 +269,7 @@ export const benefits = [
   },
   {
     id: "3",
-    title: "Fast responding for
-     Everyone",
+    title: "Fast responding for Everyone",
     text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
