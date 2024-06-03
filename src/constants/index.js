@@ -231,7 +231,8 @@ export const pricing = [
   {
     id: "2",
     title: "Enterprise",
-    description: "Custom AI chatbot, advanced analytics, dedicated account, ejw SOms ",
+    description:
+      "Custom AI chatbot, advanced analytics, dedicated account, ejw SOms ",
     price: null,
     features: [
       "An AI chatbot that can understand your queries",
@@ -252,7 +253,7 @@ export const benefits = [
   },
   {
     id: "1",
-    title: "Improve everyday",
+    title: "Improve newdy working from here ",
     text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
